@@ -1,21 +1,21 @@
 {
-	"name": "package-name",
+	"name": "stack-ui",
 	"version": "0.0.0",
 	"description": "A description of the package",
 	"license": "MIT",
-	"funding": ["https://github.com/sponsors/sergiodxa"],
+	"funding": ["https://github.com/sponsors/stack-ui"],
 	"author": {
-		"name": "Sergio Xalambrí",
-		"email": "hello+oss@sergiodxa.com",
-		"url": "https://sergiodxa.com"
+		"name": "Damian Miller",
+		"email": "hello@cdoewebs.pl",
+		"url": "https://cdoewebs.pl"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sergiodxa/package"
+		"url": "https://github.com/codewebs-stack/stack-ui"
 	},
-	"homepage": "https://sergiodxa.github.io/package",
+	"homepage": "https://codewebs-stack.github.io/stack-ui",
 	"bugs": {
-		"url": "https://github.com/sergiodxa/package/issues"
+		"url": "https://github.com/codewebs-stack/stack-ui/issues"
 	},
 	"scripts": {
 		"build": "tsc",
