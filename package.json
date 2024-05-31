@@ -3,7 +3,7 @@
 	"version": "0.0.2",
 	"description": "A description of the package",
 	"license": "MIT",
-	"funding": ["https://github.com/sponsors/stack-ui"],
+	"funding": ["https://github.com/sponsors/codewebs-org"],
 	"author": {
 		"name": "Damian Miller",
 		"email": "hello@cdoewebs.pl",
@@ -11,11 +11,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/codewebs-stack/stack-ui"
+		"url": "https://github.com/codewebs-org/stack-ui"
 	},
-	"homepage": "https://codewebs-stack.github.io/stack-ui",
+	"homepage": "https://codewebs-org.github.io/stack-ui",
 	"bugs": {
-		"url": "https://github.com/codewebs-stack/stack-ui/issues"
+		"url": "https://github.com/codewebs-org/stack-ui/issues"
 	},
 	"scripts": {
 		"build": "tsc",
